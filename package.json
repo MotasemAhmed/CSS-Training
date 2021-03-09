@@ -1,0 +1,22 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass1": "node-sass Natours/sass/main.scss Natours/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MotasemAhmed/CSS-Training.git"
+  },
+  "author": "Mo3tasem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MotasemAhmed/CSS-Training/issues"
+  },
+  "homepage": "https://github.com/MotasemAhmed/CSS-Training#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
