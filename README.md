@@ -10,3 +10,7 @@
 https://motasemahmed.github.io/CSS-Training/
 
 simply click any title & it'll redirect to that project
+
+### Contact me!
+
+#### amotasm.ahmed@gmail.com
